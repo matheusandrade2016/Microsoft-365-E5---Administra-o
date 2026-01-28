@@ -1,1 +1,27 @@
 
+Este módulo documenta o processo de criação de usuários no Centro de Administração do Microsoft 365, utilizando a licença Office 365 E5.
+
+## 👤 Usuários criados
+- Matheus Moreira
+- Fabiano Oliveira
+
+## 🧭 Etapas realizadas
+1. Acesso ao portal de administração
+2. Navegação até "Utilizadores ativos"
+3. Adição de novo utilizador com dados básicos
+4. Atribuição da licença Office 365 E5
+5. Definições opcionais (cargo, departamento, etc.)
+6. Confirmação e verificação na lista de ativos
+
+## 📸 Capturas de tela
+- Tela 1: Visualização de usuários ativos
+- Tela 2: Formulário de criação de usuário
+- Tela 3: Atribuição de licença E5
+- Tela 4: Definições opcionais preenchidas
+- Tela 5: Confirmação de criação
+- Tela 6: Lista final com usuários ativos
+
+## 🔐 Observações
+- Licença utilizada: Office 365 E5 (trial)
+- Domínio: Matheus865.onmicrosoft.com
+- MFA disponível para configuração
